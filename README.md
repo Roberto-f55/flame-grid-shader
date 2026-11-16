@@ -2,7 +2,7 @@
 
 **Autor:** Roberto Rodríguez Guillén\
 **Demo (CodeSandbox):** https://codesandbox.io/p/sandbox/dzlvfr \
-**Vídeo de captura:** https://youtu.be/KBbTZp9TGbs
+**Vídeo de captura:** https://youtu.be/KBbTZp9TGbs \
 ![Animación del shader](llama.gif)
 
 Rejilla de emblemas circulares de color naranja-rojo, cada uno con una llama negra que ondula y parece subir. La velocidad de la llama depende de la posición horizontal del ratón.
