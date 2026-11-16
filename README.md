@@ -2,7 +2,7 @@
 
 **Autor:** Roberto Rodríguez Guillén\
 **Demo (CodeSandbox):** https://codesandbox.io/p/sandbox/dzlvfr \
-**Vídeo de captura:** https://youtu.be/KBbTZp9TGbs \
+**Vídeo de captura:** https://youtu.be/KBbTZp9TGbs 
 
 ![Animación del shader](llama.gif)
 
